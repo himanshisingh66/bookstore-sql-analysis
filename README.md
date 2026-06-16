@@ -1,3 +1,14 @@
+## Project Screenshots
+
+### Total Revenue Analysis
+![Total Revenue](Screenshots/total_revenue.png)
+
+### Highest Spending Customer
+![Highest Spending Customer](Screenshots/highest_spending_customer.png)
+
+### Most Ordered Book
+![Most Ordered Book](Screenshots/most_ordered_book.png)
+
 # Book Store Data Analysis using SQL
 
 ## Project Overview
