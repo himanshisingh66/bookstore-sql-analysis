@@ -1,7 +1,14 @@
+# Book Store Data Analysis using SQL
+
+## Project Overview
+
+This project analyzes a bookstore database using MySQL. The database consists of three datasets: Books, Customers, and Orders. SQL queries were written to extract business insights related to sales, inventory, customer behavior, and revenue generation.
+
+
 ## Project Screenshots
 
 ### Total Revenue Analysis
-[Total Revenue](Screenshots/total_revenue.png)
+![Total Revenue](Screenshots/total_revenue.png)
 
 ### Highest Spending Customer
 ![Highest Spending Customer](Screenshots/highest_spending_customer.png)
@@ -9,11 +16,6 @@
 ### Most Ordered Book
 ![Most Ordered Book](Screenshots/most_frequently_ordered_book.png)
 
-# Book Store Data Analysis using SQL
-
-## Project Overview
-
-This project analyzes a bookstore database using MySQL. The database consists of three datasets: Books, Customers, and Orders. SQL queries were written to extract business insights related to sales, inventory, customer behavior, and revenue generation.
 
 ## Dataset
 
@@ -76,11 +78,30 @@ Tables Used:
 * Tracked customer purchasing behavior.
 * Evaluated inventory levels after order fulfillment.
 
+
+## Project Highlights
+
+- Imported and managed 3 CSV datasets in MySQL.
+- Solved 20 SQL business problems (11 basic + 9 advanced).
+- Applied Joins, Aggregate Functions, Subqueries, GROUP BY, HAVING, and COALESCE.
+- Generated insights on revenue, customer behavior, and inventory management.
+
 ## Tools Used
 
 * MySQL
 * SQL
 * CSV Files
+
+
+## Skills Demonstrated
+
+- SQL
+- MySQL
+- Data Analysis
+- Database Management
+- Data Querying
+- Business Analytics
+
 
 ## Author
 Himanshi Singh
