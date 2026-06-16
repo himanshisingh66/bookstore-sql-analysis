@@ -1,7 +1,7 @@
 ## Project Screenshots
 
-### Total Revenue Analysis
-![Total Revenue](Screenshots/Total Revenue.png)
+### Total Revenue Analysis!
+[Total Revenue](Screenshots/total_revenue.png)
 
 ### Highest Spending Customer
 ![Highest Spending Customer](Screenshots/highest_spending_customer.png)
